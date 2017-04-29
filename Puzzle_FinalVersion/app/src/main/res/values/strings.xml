@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Puzzle</string>
+    <string name="action_settings">Settings</string>
+    <string name="zero">zero.png</string>
+    <string name="one">one</string>
+    <string name="two">two</string>
+    <string name="three">three</string>
+    <string name="four">four</string>
+    <string name="five">five</string>
+    <string name="six">six</string>
+    <string name="seven">seven</string>
+    <string name="eight">eight</string>
+    <string name="sort">sort</string>
+    <string name="shuffle">Shuffle</string>
+    <string name="right">right</string>
+    <string name="left">left</string>
+    <string name="up">up</string>
+    <string name="down">down</string>
+    <string name="direction">direction</string>
+    <string name="start">Start</string>
+    <string name="finding">finging</string>
+    <string name="title_activity_main23">Main23Activity</string>
+</resources>

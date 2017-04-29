@@ -1,0 +1,894 @@
+[
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\app\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\app\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\app\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\app\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\AndroidCode\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "G:\\Androidstudio\\AndroidCode\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\solvable.png",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\src\\main\\res\\drawable\\solvable.png"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\two.png",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\src\\main\\res\\drawable\\two.png"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\direction.png",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\src\\main\\res\\drawable\\direction.png"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\previous.png",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\src\\main\\res\\drawable\\previous.png"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\one.png",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\src\\main\\res\\drawable\\one.png"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\right.png",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\src\\main\\res\\drawable\\right.png"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\right.png",
+        "source": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\src\\main\\res\\drawable\\right.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\AndroidCode\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "G:\\Androidstudio\\AndroidCode\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ham.png",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\src\\main\\res\\drawable\\ham.png"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\app\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\app\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\AndroidCode\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "G:\\Androidstudio\\AndroidCode\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\next.png",
+        "source": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\src\\main\\res\\drawable\\next.png"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\app\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\two.png",
+        "source": "C:\\Users\\shoha\\Desktop\\app\\Puzzle\\app\\src\\main\\res\\drawable\\two.png"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\app\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\app\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\five.png",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\src\\main\\res\\drawable\\five.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\AndroidCode\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "G:\\Androidstudio\\AndroidCode\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\four.png",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\src\\main\\res\\drawable\\four.png"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\app\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\five.png",
+        "source": "C:\\Users\\shoha\\Desktop\\app\\Puzzle\\app\\src\\main\\res\\drawable\\five.png"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\AndroidCode\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "G:\\Androidstudio\\AndroidCode\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\timout.png",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\src\\main\\res\\drawable\\timout.png"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nsolvable.png",
+        "source": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\src\\main\\res\\drawable\\nsolvable.png"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\six.png",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\src\\main\\res\\drawable\\six.png"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\app\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\app\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\complete.png",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\src\\main\\res\\drawable\\complete.png"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\next1.png",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\src\\main\\res\\drawable\\next1.png"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\seven.png",
+        "source": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\src\\main\\res\\drawable\\seven.png"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\five.png",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\src\\main\\res\\drawable\\five.png"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\app\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\app\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\app\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\app\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\app\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\app\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\four.png",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\src\\main\\res\\drawable\\four.png"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\AndroidCode\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "G:\\Androidstudio\\AndroidCode\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\app\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\app\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\next.png",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\src\\main\\res\\drawable\\next.png"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ham.png",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\src\\main\\res\\drawable\\ham.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\AndroidCode\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "G:\\Androidstudio\\AndroidCode\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\eightpuzzle.png",
+        "source": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\src\\main\\res\\drawable\\eightpuzzle.png"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\AndroidCode\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "G:\\Androidstudio\\AndroidCode\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\AndroidCode\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "G:\\Androidstudio\\AndroidCode\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\AndroidCode\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "G:\\Androidstudio\\AndroidCode\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\app\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\three.png",
+        "source": "C:\\Users\\shoha\\Desktop\\app\\Puzzle\\app\\src\\main\\res\\drawable\\three.png"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\seven.png",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\src\\main\\res\\drawable\\seven.png"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\app\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\app\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\next1.png",
+        "source": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\src\\main\\res\\drawable\\next1.png"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aster.png",
+        "source": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\src\\main\\res\\drawable\\aster.png"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fdsolution.png",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\src\\main\\res\\drawable\\fdsolution.png"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\one.png",
+        "source": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\src\\main\\res\\drawable\\one.png"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\app\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\app\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aster.png",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\src\\main\\res\\drawable\\aster.png"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\next.png",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\src\\main\\res\\drawable\\next.png"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\five.png",
+        "source": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\src\\main\\res\\drawable\\five.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\AndroidCode\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "G:\\Androidstudio\\AndroidCode\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\AndroidCode\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "G:\\Androidstudio\\AndroidCode\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\app\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\app\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\app\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\app\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\next1.png",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\src\\main\\res\\drawable\\next1.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\AndroidCode\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "G:\\Androidstudio\\AndroidCode\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\app\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\app\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\app\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\app\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\AndroidCode\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "G:\\Androidstudio\\AndroidCode\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\app\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\four.png",
+        "source": "C:\\Users\\shoha\\Desktop\\app\\Puzzle\\app\\src\\main\\res\\drawable\\four.png"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\eight.png",
+        "source": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\src\\main\\res\\drawable\\eight.png"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\right.png",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\src\\main\\res\\drawable\\right.png"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\app\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\app\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\AndroidCode\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "G:\\Androidstudio\\AndroidCode\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\down.png",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\src\\main\\res\\drawable\\down.png"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\app\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\app\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nsolvable.png",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\src\\main\\res\\drawable\\nsolvable.png"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\previous.png",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\src\\main\\res\\drawable\\previous.png"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\AndroidCode\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "G:\\Androidstudio\\AndroidCode\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\direction.png",
+        "source": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\src\\main\\res\\drawable\\direction.png"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\app\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\app\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\AndroidCode\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "G:\\Androidstudio\\AndroidCode\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\AndroidCode\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "G:\\Androidstudio\\AndroidCode\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\AndroidCode\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "G:\\Androidstudio\\AndroidCode\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\complete.png",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\src\\main\\res\\drawable\\complete.png"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\up.png",
+        "source": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\src\\main\\res\\drawable\\up.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\AndroidCode\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "G:\\Androidstudio\\AndroidCode\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\three.png",
+        "source": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\src\\main\\res\\drawable\\three.png"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\timout.png",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\src\\main\\res\\drawable\\timout.png"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aster.png",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\src\\main\\res\\drawable\\aster.png"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\up.png",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\src\\main\\res\\drawable\\up.png"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\app\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\one.png",
+        "source": "C:\\Users\\shoha\\Desktop\\app\\Puzzle\\app\\src\\main\\res\\drawable\\one.png"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\app\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\app\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\AndroidCode\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "G:\\Androidstudio\\AndroidCode\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\eight.png",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\src\\main\\res\\drawable\\eight.png"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\app\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\app\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\eight.png",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\src\\main\\res\\drawable\\eight.png"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fdsolution.png",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\src\\main\\res\\drawable\\fdsolution.png"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\eightpuzzle.png",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\src\\main\\res\\drawable\\eightpuzzle.png"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\direction.png",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\src\\main\\res\\drawable\\direction.png"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\six.png",
+        "source": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\src\\main\\res\\drawable\\six.png"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\one.png",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\src\\main\\res\\drawable\\one.png"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\three.png",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\src\\main\\res\\drawable\\three.png"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\app\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\app\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\AndroidCode\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "G:\\Androidstudio\\AndroidCode\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\four.png",
+        "source": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\src\\main\\res\\drawable\\four.png"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\app\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\zero.png",
+        "source": "C:\\Users\\shoha\\Desktop\\app\\Puzzle\\app\\src\\main\\res\\drawable\\zero.png"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ham.png",
+        "source": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\src\\main\\res\\drawable\\ham.png"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\credit.png",
+        "source": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\src\\main\\res\\drawable\\credit.png"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\solvable.png",
+        "source": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\src\\main\\res\\drawable\\solvable.png"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\two.png",
+        "source": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\src\\main\\res\\drawable\\two.png"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\app\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\app\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\asea.png",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\src\\main\\res\\drawable\\asea.png"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\app\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\app\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\app\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\seven.png",
+        "source": "C:\\Users\\shoha\\Desktop\\app\\Puzzle\\app\\src\\main\\res\\drawable\\seven.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\AndroidCode\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "G:\\Androidstudio\\AndroidCode\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\app\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\app\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\app\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\eight.png",
+        "source": "C:\\Users\\shoha\\Desktop\\app\\Puzzle\\app\\src\\main\\res\\drawable\\eight.png"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\zero.png",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\src\\main\\res\\drawable\\zero.png"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\left.png",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\src\\main\\res\\drawable\\left.png"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\timout.png",
+        "source": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\src\\main\\res\\drawable\\timout.png"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\two.png",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\src\\main\\res\\drawable\\two.png"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\app\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\app\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\manhat.png",
+        "source": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\src\\main\\res\\drawable\\manhat.png"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\app\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\six.png",
+        "source": "C:\\Users\\shoha\\Desktop\\app\\Puzzle\\app\\src\\main\\res\\drawable\\six.png"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nsolvable.png",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\src\\main\\res\\drawable\\nsolvable.png"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\eightpuzzle.png",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\src\\main\\res\\drawable\\eightpuzzle.png"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\down.png",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\src\\main\\res\\drawable\\down.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\AndroidCode\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "G:\\Androidstudio\\AndroidCode\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\asea.png",
+        "source": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\src\\main\\res\\drawable\\asea.png"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\manhat.png",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\src\\main\\res\\drawable\\manhat.png"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\solvable.png",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\src\\main\\res\\drawable\\solvable.png"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\up.png",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\src\\main\\res\\drawable\\up.png"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\down.png",
+        "source": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\src\\main\\res\\drawable\\down.png"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\previous.png",
+        "source": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\src\\main\\res\\drawable\\previous.png"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\zero.png",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\src\\main\\res\\drawable\\zero.png"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\left.png",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\src\\main\\res\\drawable\\left.png"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\asea.png",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\src\\main\\res\\drawable\\asea.png"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\zero.png",
+        "source": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\src\\main\\res\\drawable\\zero.png"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\complete.png",
+        "source": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\src\\main\\res\\drawable\\complete.png"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\left.png",
+        "source": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\src\\main\\res\\drawable\\left.png"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\manhat.png",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\src\\main\\res\\drawable\\manhat.png"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\seven.png",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\src\\main\\res\\drawable\\seven.png"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fdsolution.png",
+        "source": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\src\\main\\res\\drawable\\fdsolution.png"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "G:\\Androidstudio\\AndroidCode\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "G:\\Androidstudio\\AndroidCode\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\three.png",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\src\\main\\res\\drawable\\three.png"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\credit.png",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\src\\main\\res\\drawable\\credit.png"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\credit.png",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\src\\main\\res\\drawable\\credit.png"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\puzzle\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\six.png",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\Puzzle\\app\\src\\main\\res\\drawable\\six.png"
+    },
+    {
+        "merged": "G:\\Androidstudio\\AndroidCode\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "G:\\Androidstudio\\AndroidCode\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\report\\lab\\New folder\\Puzzle_FinalVersion\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\shoha\\Desktop\\app\\Puzzle\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\shoha\\Desktop\\app\\Puzzle\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_text_cursor_material.xml"
+    }
+]
