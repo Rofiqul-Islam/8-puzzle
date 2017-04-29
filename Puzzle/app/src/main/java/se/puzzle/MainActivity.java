@@ -35,7 +35,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        initialization();
+        update(a);
         runTimer();
 
     }
@@ -50,45 +50,10 @@ public class MainActivity extends AppCompatActivity {
         }
         stack=new Stack();
         b=new AstarAlgorithm();
-        initialization();
+        update(a);
         start();
     }
     
-    public void initialization(){
-        ImageView zero = (ImageView) findViewById(R.id.zero);
-        int resID = getResources().getIdentifier(is[a[0]], "drawable", getPackageName());
-        zero.setImageResource(resID);
-        ImageView one = (ImageView) findViewById(R.id.one);
-        resID = getResources().getIdentifier(is[a[1]], "drawable", getPackageName());
-        one.setImageResource(resID);
-        ImageView two = (ImageView) findViewById(R.id.two);
-        resID = getResources().getIdentifier(is[a[2]], "drawable", getPackageName());
-        two.setImageResource(resID);
-
-        ImageView three = (ImageView) findViewById(R.id.three);
-        resID = getResources().getIdentifier(is[a[3]], "drawable", getPackageName());
-        three.setImageResource(resID);
-
-        ImageView four = (ImageView) findViewById(R.id.four);
-        resID = getResources().getIdentifier(is[a[4]], "drawable", getPackageName());
-        four.setImageResource(resID);
-
-        ImageView five = (ImageView) findViewById(R.id.five);
-        resID = getResources().getIdentifier(is[a[5]], "drawable", getPackageName());
-        five.setImageResource(resID);
-
-        ImageView six = (ImageView) findViewById(R.id.six);
-        resID = getResources().getIdentifier(is[a[6]], "drawable", getPackageName());
-        six.setImageResource(resID);
-
-        ImageView seven = (ImageView) findViewById(R.id.seven);
-        resID = getResources().getIdentifier(is[a[7]], "drawable", getPackageName());
-        seven.setImageResource(resID);
-
-        ImageView eight = (ImageView) findViewById(R.id.eight);
-        resID = getResources().getIdentifier(is[a[8]], "drawable", getPackageName());
-        eight.setImageResource(resID);
-    }
 
    public void sort(View view) {
         run=true;
@@ -131,7 +96,7 @@ public class MainActivity extends AppCompatActivity {
                         arr[i] = s.charAt(i) - '0';
                     }
                    
-                   update();
+                   update(arr);
 
                 }
 
@@ -143,42 +108,42 @@ public class MainActivity extends AppCompatActivity {
 
     }
     
-     void update()
- -    {
- -        ImageView zero = (ImageView) findViewById(R.id.zero);
- -        int resID = getResources().getIdentifier(is[arr[0]], "drawable", getPackageName());
- -        zero.setImageResource(resID);
- -        ImageView one = (ImageView) findViewById(R.id.one);
- -        resID = getResources().getIdentifier(is[arr[1]], "drawable", getPackageName());
- -        one.setImageResource(resID);
- -        ImageView two = (ImageView) findViewById(R.id.two);
- -        resID = getResources().getIdentifier(is[arr[2]], "drawable", getPackageName());
- -        two.setImageResource(resID);
- -
- -        ImageView three = (ImageView) findViewById(R.id.three);
- -        resID = getResources().getIdentifier(is[arr[3]], "drawable", getPackageName());
- -        three.setImageResource(resID);
- -
- -        ImageView four = (ImageView) findViewById(R.id.four);
- -        resID = getResources().getIdentifier(is[arr[4]], "drawable", getPackageName());
- -        four.setImageResource(resID);
- -
- -        ImageView five = (ImageView) findViewById(R.id.five);
- -        resID = getResources().getIdentifier(is[arr[5]], "drawable", getPackageName());
- -        five.setImageResource(resID);
- -
- -        ImageView six = (ImageView) findViewById(R.id.six);
- -        resID = getResources().getIdentifier(is[arr[6]], "drawable", getPackageName());
- -        six.setImageResource(resID);
- -
- -        ImageView seven = (ImageView) findViewById(R.id.seven);
- -        resID = getResources().getIdentifier(is[arr[7]], "drawable", getPackageName());
- -        seven.setImageResource(resID);
- -
- -        ImageView eight = (ImageView) findViewById(R.id.eight);
- -        resID = getResources().getIdentifier(is[arr[8]], "drawable", getPackageName());
- -        eight.setImageResource(resID);
- -    }
+     void update(int u[])
+    {
+         ImageView zero = (ImageView) findViewById(R.id.zero);
+         int resID = getResources().getIdentifier(is[u[0]], "drawable", getPackageName());
+         zero.setImageResource(resID);
+         ImageView one = (ImageView) findViewById(R.id.one);
+         resID = getResources().getIdentifier(is[u[1]], "drawable", getPackageName());
+         one.setImageResource(resID);
+         ImageView two = (ImageView) findViewById(R.id.two);
+         resID = getResources().getIdentifier(is[u[2]], "drawable", getPackageName());
+         two.setImageResource(resID);
+ 
+         ImageView three = (ImageView) findViewById(R.id.three);
+         resID = getResources().getIdentifier(is[u[3]], "drawable", getPackageName());
+         three.setImageResource(resID);
+ 
+         ImageView four = (ImageView) findViewById(R.id.four);
+         resID = getResources().getIdentifier(is[u[4]], "drawable", getPackageName());
+         four.setImageResource(resID);
+ 
+         ImageView five = (ImageView) findViewById(R.id.five);
+         resID = getResources().getIdentifier(is[u[5]], "drawable", getPackageName());
+         five.setImageResource(resID);
+ 
+         ImageView six = (ImageView) findViewById(R.id.six);
+         resID = getResources().getIdentifier(is[u[6]], "drawable", getPackageName());
+         six.setImageResource(resID);
+ 
+         ImageView seven = (ImageView) findViewById(R.id.seven);
+         resID = getResources().getIdentifier(is[u[7]], "drawable", getPackageName());
+         seven.setImageResource(resID);
+ 
+         ImageView eight = (ImageView) findViewById(R.id.eight);
+         resID = getResources().getIdentifier(is[u[8]], "drawable", getPackageName());
+         eight.setImageResource(resID);
+     }
 
 
 
