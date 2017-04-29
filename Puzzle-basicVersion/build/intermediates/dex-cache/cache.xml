@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\shoha\Desktop\projects\puzzle\Puzzle\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="C:\Users\shoha\Desktop\projects\puzzle\Puzzle\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.1.1_354dd58b807a68ff568a5207f7938e4b0afae793\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shoha\Desktop\projects\puzzle\Puzzle\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\shoha\Desktop\projects\puzzle\Puzzle\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.1_8db351f4297485a89c4e9b6a337523c0944833f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shoha\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\shoha\Desktop\projects\puzzle\Puzzle\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.1_2f09a5036edb8fcd83c46b57a96b12f5f75d8bf2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shoha\Desktop\projects\puzzle\Puzzle\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b84069a867b273b0d1f185f63ef8225e7e71ff3c">
+        <dex dex="C:\Users\shoha\Desktop\projects\puzzle\Puzzle\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_456e3a54c4fe515c6480d06e85d55c4aaa1c6afc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shoha\Desktop\projects\puzzle\Puzzle\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c95f03aadb3694714493798a598791e86e2948df">
+        <dex dex="C:\Users\shoha\Desktop\projects\puzzle\Puzzle\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_5bb6482fdca9bb33cdcd89e4153700881b626b38\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shoha\Desktop\projects\puzzle\Puzzle\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\shoha\Desktop\projects\puzzle\Puzzle\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.1.1_ad2726d57d25f2dcb5ce81572c4ec71a65cd2c0f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shoha\Desktop\projects\puzzle\Puzzle\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="C:\Users\shoha\Desktop\projects\puzzle\Puzzle\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.1.1_410fa9d2a1882efeee2cff18960e2da27922d095\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shoha\Desktop\projects\puzzle\Puzzle\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\shoha\Desktop\projects\puzzle\Puzzle\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.1.1_bc46c2609d31570919f6b8c2aa2e1b60fcedf9b4\classes.dex" />
+    </item>
+
+</items>
